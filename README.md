@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on GitHub Classroom automation.
 - 🤔 I’m looking for help with assignment unit testing and automated code quality checks for grading.
 - 💬 Ask me about agile methodologies applied to the classroom.
-- 📫 How to reach me: (LinkedIn)[https://www.linkedin.com/in/gfbustamante/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gfbustamante/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy food challenges (quanity, pungency, and/or uniqueness)
